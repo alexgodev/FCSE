@@ -1,0 +1,25 @@
+{
+  "locale": "en",
+  "Login": {
+    "login": "login",
+    "sign_in": "sign in"
+  },
+  "Home": {
+    "hello_world": "hello world!",
+    "try_our_amazing_app": "try our amazing app"
+  },
+  "Header": {
+    "home": "home",
+    "profile": "profile",
+    "login": "login"
+  },
+  "Profile": {
+    "profile": "profile",
+    "first_name": "first name",
+    "last_name": "last name",
+    "logout": "logout"
+  },
+  "Error": {
+    "an_error_occurred": "an error occurred"
+  }
+}

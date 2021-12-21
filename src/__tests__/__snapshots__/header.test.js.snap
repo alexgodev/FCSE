@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly header component 1`] = `
+Array [
+  <div
+    className="sc-bdvvtL clJdMN"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <button
+        className="sc-gsDKAQ gzTrXc"
+      >
+        home
+      </button>
+    </a>
+    <a
+      href="/login"
+      onClick={[Function]}
+    >
+      <button
+        className="sc-gsDKAQ gzTrXc"
+      >
+        login
+      </button>
+    </a>
+  </div>,
+  ",",
+]
+`;

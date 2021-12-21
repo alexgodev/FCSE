@@ -17,6 +17,7 @@ const useStyles = makeStyles((theme) => ({
     },
     paper: {
         padding: theme.spacing(3, 5),
+        boxShadow: "none",
     },
     button: {
         margin: theme.spacing(5, 0, 0),

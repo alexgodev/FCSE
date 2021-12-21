@@ -2,7 +2,9 @@
   "locale": "en",
   "Login": {
     "login": "login",
-    "sign_in": "sign in"
+    "sign_in": "sign in",
+    "email_address": "email address",
+    "password": "password"
   },
   "Home": {
     "hello_world": "hello world!",

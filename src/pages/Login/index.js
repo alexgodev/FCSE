@@ -23,6 +23,7 @@ const useStyles = makeStyles((theme) => ({
     },
     Paper: {
         padding: theme.spacing(3, 2),
+        boxShadow: "none",
     },
     ButtonSubmit: {
         margin: theme.spacing(3, 0, 2),
@@ -77,7 +78,7 @@ const Login = () => {
                             fullWidth
                             id="email"
                             name="email"
-                            label="Email Address"
+                            label={t('email_address')}
                             type="email"
                             value={values.email}
                             onChange={handleChange}
@@ -90,7 +91,7 @@ const Login = () => {
                             fullWidth
                             id="password"
                             name="password"
-                            label="Password"
+                            label={t('password')}
                             type="password"
                             value={values.password}
                             onChange={handleChange}
